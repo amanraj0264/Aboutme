@@ -38,7 +38,7 @@ export default function Project() {
 
                 <div className='flex items-center space-y-5 '>
                     <div className='space-y-5'>
-                        <h4 className='font-sora text-4xl font-medium'>Fitness Website</h4>
+                        <h4 className='font-sora text-4xl font-medium'>Financial Website</h4>
                         <p className='font-sora '> A responsive financial App website built using Tailwind and React.</p>
 
                         <button class="button">
@@ -61,7 +61,7 @@ export default function Project() {
 
                 <div className='flex items-center space-y-5'>
                     <div className='space-y-5'>
-                        <h4 className='font-sora text-4xl font-medium'>Fitness Website</h4>
+                        <h4 className='font-sora text-4xl font-medium'>Hospital Website</h4>
                         <p className='font-sora '> A responsive Cancer Hospitel website built using Tailwind and React.</p>
 
                         <button class="button">
