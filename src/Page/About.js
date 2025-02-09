@@ -21,7 +21,7 @@ export default function About() {
                 <div className='space-y-6 w-5/5 lg:w-full px-6 items-center'>
                     <h2 className='text-4xl font-sora font-bold'>I am Aman Kumar</h2>
                     <h1 className='text-7xl font-sora font-bold grandient'>Web Developer + <br></br>UI Designer</h1>
-                    <p className='text-xl font-sora '>I am Frontend web devloper. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
+                    <p className='text-xl font-sora '>I am Frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
 
                    
                     <div className='flex md:flex-row flex-col  items-center gap-8 pt-6'>
