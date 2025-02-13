@@ -17,11 +17,11 @@ export default function About() {
             </div>
 
 
-            <div className='flex flex-col gap-5 md:flex-row justify-center items-center px-6'>
+            <div className='flex flex-col gap-5 md:flex-row justify-center items-center '>
                 <div className='space-y-6 w-5/5 lg:w-full px-6 items-center'>
-                    <h2 className='text-4xl font-sora font-bold'>I am Aman Kumar</h2>
-                    <h1 className='text-7xl font-sora font-bold grandient'>Web Developer + <br></br>UI Designer</h1>
-                    <p className='text-xl font-sora '>I am Frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
+                    <h2 className='md:text-4xl font-sora font-bold text-center md:text-start '>I am Aman Kumar</h2>
+                    <h1 className='md:text-7xl sm:text-5xl xs:text-3xl font-sora font-bold grandient text-center md:text-start'>Web Developer + <br></br>UI Designer</h1>
+                    <p className='text-xl font-sora text-center md:text-start'>I am Frontend web devloper. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
 
                    
                     <div className='flex md:flex-row flex-col  items-center gap-8 pt-6'>
